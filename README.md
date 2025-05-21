@@ -15,7 +15,7 @@ To harness Power BI for uncovering insights into Shopify store sales, customer b
 - How do sales and customer activity vary by day and by hour?
 
 
-- Dashboard Interaction <a href="![Shopify](https://github.com/user-attachments/assets/ecd6999e-f19b-48f2-9137-9f23cdf4aab0)"> View Dashboard </a>
+- Dashboard Interaction <a href="https://github.com/SelvaTharsan/Shopify-Sales-Dashboard-PowerBi/blob/main/Shopify.JPG"> View Dashboard </a>
 
 ## Process
 - Requirement Gathering & Data Walkthrough: Understand business goals and define the scope.
